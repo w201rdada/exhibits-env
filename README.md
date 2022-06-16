@@ -6,6 +6,8 @@ RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://binder.mybinder
 
 RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](https://binder.mybinder.ovh/v2/gh/w201rdada/exhibits/master?urlpath=shiny/sampling-frame/)
 
+https://mybinder.org/v2/gh/w201rdada/exhibits-env/master?urlpath=git-pull?repo=https://github.com/w201rdada/exhibits
+
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
 
