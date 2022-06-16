@@ -1,0 +1,9 @@
+install.packages(strsplit(split='\n',
+'data.table
+ggplot2
+magrittr
+shiny
+cowplot
+withr
+forcats'
+)[[1]])
